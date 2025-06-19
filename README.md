@@ -7,7 +7,7 @@ A smart, fast crypto chatbot using Groq LLaMA/Mixtral models, built with LangCha
 ---------------------------------------------
 📁 Project Structure
 ---------------------------------------------
-crypto_analyst_ai/
+'''crypto_analyst_ai/
 ├── .env                  <- API keys file
 ├── backend/
 │   ├── ai_agent.py       <- LangChain + Groq logic
@@ -16,7 +16,7 @@ crypto_analyst_ai/
 ├── frontend/
 │   ├── frontend.py       <- Streamlit interface
 │   └── requirements.txt
-├── README.txt
+├── README.txt'''
 
 ---------------------------------------------
 🔐 API Keys Setup
